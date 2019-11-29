@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BullCowGame", "BullCowGame\BullCowGame.vcxproj", "{A72B0E36-CCFF-4BF1-8B14-02040A237383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Debug|x64.ActiveCfg = Debug|x64
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Debug|x64.Build.0 = Debug|x64
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Debug|x86.ActiveCfg = Debug|Win32
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Debug|x86.Build.0 = Debug|Win32
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Release|x64.ActiveCfg = Release|x64
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Release|x64.Build.0 = Release|x64
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Release|x86.ActiveCfg = Release|Win32
+		{A72B0E36-CCFF-4BF1-8B14-02040A237383}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6BFA38-DC4A-4CD2-B92C-399331A2882D}
+	EndGlobalSection
+EndGlobal
